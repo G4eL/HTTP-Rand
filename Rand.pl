@@ -28,6 +28,7 @@ How to use : perl rand.pl <ip or url> <time>
 
 Example IP : perl rand.pl 95.0.0.0 60
 Example URL : perl rand.pl site.com 60
+
 Author -> G4eL
 
 EOTEXT
