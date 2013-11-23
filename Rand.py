@@ -36,6 +36,7 @@ exit(1);
 
 my ($ip,$time) = @ARGV;
 my ($endtime, $sock);
+
 $endtime = time() + ($time ? $time : 1);
 
 my @referer = ('http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&url=$ip');
